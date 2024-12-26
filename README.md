@@ -41,7 +41,8 @@ Bacterial pneumonia (middle panel) typically exhibits a focal lobar consolidatio
 
 Viral pneumonia (right panel) manifests with a more diffuse "interstitial" pattern in both lungs 🌬️🌫️
 
-##Content
+## Content
+
 The dataset is organized into 3 folders (train, test, val) and contains subfolders of each image category (Pneumonia / Normal) 🗂️🩻. There are 5,863 X-ray images (JPEG) 📸 and 2 categories (Pneumonia / Normal). 🏥
 
 Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients (ages 1 to 5 years old) from Guangzhou Women and Children’s Medical Center, Guangzhou 🌍👶. All chest X-ray imaging was performed as part of patients' routine clinical care. 💉🩺
