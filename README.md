@@ -1,6 +1,7 @@
 # Pneumonia Detection on Chest X-ray Images Using Deep-Learning
 
 The dataset of this project is obtained from the Kaggle- Chest X-ray Images (Pneumonia)
+
 ## Note:
 The datasets to be used in the project comply with the health-ethical rules ⚖️💡 and are suitable for use as a license. 📜✅🔒
 
