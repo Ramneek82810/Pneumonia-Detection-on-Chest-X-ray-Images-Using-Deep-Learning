@@ -3,6 +3,7 @@
 The dataset of this project is obtained from the Kaggle- Chest X-ray Images (Pneumonia)
 
 ## Note:
+
 The datasets to be used in the project comply with the health-ethical rules ⚖️💡 and are suitable for use as a license. 📜✅🔒
 
 ![68747470733a2f2f7777772e64727567732e636f6d2f6865616c74682d67756964652f696d616765732f30323264633132362d666335642d346535342d396137382d3735663263396561346262362e6a7067](https://github.com/user-attachments/assets/6e4bc8dd-9130-43fa-bc1d-9e0bffa4e862)
