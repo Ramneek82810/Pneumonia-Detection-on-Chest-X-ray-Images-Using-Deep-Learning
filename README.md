@@ -13,6 +13,7 @@ Pneumonia is an inflammatory condition of the lung that affects the small air sa
 Pneumonia is usually caused by infection with viruses or bacteria 🦠🦠, and less commonly by conditions such as other micro-organisms, certain medications 💊, or auto-immune diseases. ⚡🦠
 
 ## Risk factors include:
+
 -Cystic fibrosis 🧬
 
 -Chronic obstructive pulmonary diseases (COPD) 💨
