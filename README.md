@@ -14,7 +14,7 @@ Pneumonia is usually caused by infection with viruses or bacteria 🦠🦠, and 
 
 ## Risk factors include:
 
--Cystic fibrosis 🧬
+- Cystic fibrosis 🧬
 
 -Chronic obstructive pulmonary diseases (COPD) 💨
 
