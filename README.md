@@ -20,7 +20,7 @@ Pneumonia is usually caused by infection with viruses or bacteria 🦠🦠, and 
 
 - Asthma 🌬️
 
--Diabetes 🍩
+- Diabetes 🍩
 
 -Heart failure ❤️
 
