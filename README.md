@@ -18,7 +18,7 @@ Pneumonia is usually caused by infection with viruses or bacteria 🦠🦠, and 
 
 - Chronic obstructive pulmonary diseases (COPD) 💨
 
--Asthma 🌬️
+- Asthma 🌬️
 
 -Diabetes 🍩
 
