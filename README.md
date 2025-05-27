@@ -22,7 +22,7 @@ Pneumonia is usually caused by infection with viruses or bacteria 🦠🦠, and 
 
 - Diabetes 🍩
 
--Heart failure ❤️
+- Heart failure ❤️
 
 -Smoking history 🚬
 
