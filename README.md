@@ -9,7 +9,7 @@ This project applies Convolutional Neural Networks (CNNs) to detect pneumonia fr
 The dataset used in this project is sourced from **[Kaggle - Chest X-ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)**.
 
 > ⚠️ **Note**:  
-> 📋✅🧠 The datasets used in this project comply with **health-ethical standards ⚖️💡** and are permitted for academic and research use.
+> The datasets used in this project comply with **health-ethical standards ⚖️💡** and are permitted for academic and research use.
 
 ---
 
@@ -36,13 +36,6 @@ Pneumonia-Detection-on-Chest-X-ray-Images-Using-Deep-Learning/
 
 ## 🧪 How to Run
 
-1. **Open in Google Colab**  
-   Click here to open the notebook directly in Colab:  
-   _[Colab Link Placeholder — insert your Colab share link here]_
-
-2. **Upload Dataset**  
-   Download the dataset from Kaggle and upload it to the `/content/` directory in Colab. Organize it as:
-
 ```
 chest_xray/
 ├── train/
@@ -56,7 +49,7 @@ chest_xray/
 │   └── PNEUMONIA/
 ```
 
-3. **Run all cells**  
+ **Run all cells**  
    The notebook will:
    - Load & preprocess images  
    - Build and train CNN model  
